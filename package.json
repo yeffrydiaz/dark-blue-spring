@@ -1,0 +1,22 @@
+{
+    "name": "dark-blue-spring",
+    "displayName": "dark blue spring",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "smartlive",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark blue spring",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark blue spring-color-theme.json"
+            }
+        ]
+    }
+}
