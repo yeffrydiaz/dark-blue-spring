@@ -2,7 +2,7 @@
   "name": "dark-blue-spring",
   "displayName": "dark blue spring",
   "description": "A colorful VS Code theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "smartlive",
   "engines": {
     "vscode": "^1.19.0"
