@@ -1,22 +1,44 @@
 {
-    "name": "dark-blue-spring",
-    "displayName": "dark blue spring",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "smartlive",
-    "engines": {
-        "vscode": "^1.19.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "dark blue spring",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark blue spring-color-theme.json"
-            }
-        ]
-    }
+  "name": "dark-blue-spring",
+  "displayName": "dark blue spring",
+  "description": "A colorful VS Code theme",
+  "version": "0.0.1",
+  "publisher": "smartlive",
+  "engines": {
+    "vscode": "^1.19.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark blue spring",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark blue spring-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeffrydiaz/dark-blue-spring.git"
+  },
+  "keywords": [
+    "dark",
+    "blue",
+    "spring",
+    "visual",
+    "studio",
+    "color",
+    "theme"
+  ],
+  "author": "Yeffry Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeffrydiaz/dark-blue-spring/issues"
+  },
+  "homepage": "https://github.com/yeffrydiaz/dark-blue-spring#readme"
 }
