@@ -2,7 +2,7 @@
  
 Dark Blue Spring theme, a colorful VS Code theme!
  
- [GitHub repository](https://github.com/Binaryify/OneDark-Pro)
+ [GitHub repository](https://github.com/yeffrydiaz/dark-blue-spring)
  
  CHANGELOG
  
