@@ -1,5 +1,9 @@
-Visual Studio Code Theme Color
-
-Name: Dark Blue Spring
-
-A colorful VS Code theme
+# [Dark Blue Spring](https://marketplace.visualstudio.com/items?itemName=smartlive.dark-blue-spring)
+ 
+Dark Blue Spring theme, a colorful VS Code theme!
+ 
+ [GitHub repository](https://github.com/Binaryify/OneDark-Pro)
+ 
+ CHANGELOG
+ 
+ [CHANGELOG.MD](CHANGELOG.md)
