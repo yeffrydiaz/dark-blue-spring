@@ -2,10 +2,10 @@
   "name": "dark-blue-spring",
   "displayName": "dark blue spring",
   "description": "A colorful VS Code theme",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "smartlive",
   "engines": {
-    "vscode": "^1.19.0"
+    "vscode": "^1.21.1"
   },
   "categories": [
     "Themes"
@@ -19,6 +19,7 @@
       }
     ]
   },
+  "icon": "icon.png",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
