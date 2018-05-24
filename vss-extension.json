@@ -1,16 +1,16 @@
 {
-  "manifestVersion": 1,
-  "id": "tools",
-  "version": "0.0.1",
-  "name": "dark blue spring",
-  "publisher": "yeffrydiaz",
-  "description": "Visual Studio Code Color Theme.",
-  "targets": [
-    {
-        "id": "Microsoft.VisualStudio.Services"
-    }
-  ],
-  "categories": [
+    "manifestVersion": 1,
+    "id": "tools",
+    "version": "1.0.1",
+    "name": "Dark Blue Spring",
+    "publisher": "yeffrydiaz",
+    "description": "Visual Studio Code Color Theme.",
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],
+    "categories": [
         "Collaborate"
     ],
     "tags": [
@@ -20,21 +20,21 @@
         "blue",
         "spring"
     ],
-  "repository": {
-      "type": "git",
-      "uri": "https://github.com/yeffrydiaz/dark-blue-spring"
-  },
-  "contributions": [
-      {
-          "id": "nicecolor",
-          "type": "object",
-          "description": "Very good looking theme.",
-          "properties": {
-              "title": "Dark Blue Spring"
-          }
-      }
-  ],
-  "galleryFlags": [
-    "Public"
-]
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/yeffrydiaz/dark-blue-spring"
+    },
+    "contributions": [
+        {
+            "id": "nicecolor",
+            "type": "object",
+            "description": "Very good looking theme.",
+            "properties": {
+                "title": "Dark Blue Spring"
+            }
+        }
+    ],
+    "galleryFlags": [
+        "Public"
+    ]
 }

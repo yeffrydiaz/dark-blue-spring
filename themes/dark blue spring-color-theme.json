@@ -3,7 +3,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"backgroundColor": "#000c18",
 				"foreground": "#fff"
 			}
@@ -14,7 +14,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"backgroundColor": "#000c18",
 				"foreground": "#83acff"
 			}
@@ -23,7 +23,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#666"
 			}
 		},
@@ -31,7 +31,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#77FB00"
 			}
 		},
@@ -39,7 +39,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#FF2E33"
 			}
 		},
@@ -47,7 +47,7 @@
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#f280d0"
 			}
 		},
@@ -58,7 +58,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#f280d0"
 			}
 		},
@@ -66,7 +66,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#fff"
 			}
 		},
@@ -74,7 +74,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#fa6bc3" //if
 			}
 		},
@@ -82,7 +82,7 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#FFA54D"
 			}
 		},
@@ -90,7 +90,7 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#ff9328" //function word
 			}
 		},
@@ -101,7 +101,7 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#ff482f" //promise
 			}
 		},
@@ -109,7 +109,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#ddbb88"
 			}
 		},
@@ -117,7 +117,7 @@
 			"name": "Function name",
 			"scope": "entity.name.function",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#11FFFA"
 			}
 		},
@@ -125,7 +125,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#fff"
 			}
 		},
@@ -133,7 +133,7 @@
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#ff9271"
 			}
 		},
@@ -141,7 +141,7 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#51ffc5" //css attribute
 			}
 		},
@@ -149,7 +149,7 @@
 			"name": "Library function",
 			"scope": "support.function",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#d9ff32" //fromCharCode
 			}
 		},
@@ -157,7 +157,7 @@
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#eafd41" //css value
 			}
 		},
@@ -168,7 +168,7 @@
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#57a5ff" //String word
 			}
 		},
@@ -176,7 +176,7 @@
 			"name": "Library variable",
 			"scope": "support.other.variable",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#1ec3ff"
 			}
 		},
@@ -185,7 +185,7 @@
 			"scope": "invalid",
 			"settings": {
 				"backgroundColor": "#F92672",
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#F8F8F0"
 			}
 		},
@@ -193,7 +193,7 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"backgroundColor": "#AE81FF",
 				"foreground": "#F8F8F0"
 			}
@@ -206,7 +206,7 @@
 			],
 			"settings": {
 				"backgroundColor": "#b58900",
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#E0EDDD"
 			}
 		},
@@ -215,7 +215,7 @@
 			"scope": "markup.deleted",
 			"settings": {
 				"backgroundColor": "#eee8d5",
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#dc322f"
 			}
 		},
@@ -224,7 +224,7 @@
 			"scope": "markup.changed",
 			"settings": {
 				"backgroundColor": "#eee8d5",
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#cb4b16"
 			}
 		},
@@ -232,7 +232,7 @@
 			"name": "diff: inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"backgroundColor": "#eee8d5",
 				"foreground": "#219186"
 			}
@@ -241,7 +241,7 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#22aa44"
 			}
 		},
@@ -249,10 +249,10 @@
 			"name": "Markup Styling",
 			"scope": [
 				"markup.bold",
-				"markup.italic"
+				"markup.normal"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#22aa44"
 			}
 		},
@@ -260,7 +260,7 @@
 			"name": "Markup Inline",
 			"scope": "markup.inline.raw",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#9966b8"
 			}
 		},
@@ -268,7 +268,7 @@
 			"name": "Markup Setext Header",
 			"scope": "markup.heading.setext",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#ddbb88"
 			}
 		}
@@ -415,7 +415,7 @@
 		"extensionButton.prominentHoverBackground": "#5f8b3bbb",
 		// Workbench: Terminal
 		"terminal.ansiBlack": "#464646",
-		"terminal.ansiRed": "#360a0d",
+		"terminal.ansiRed": "#a0222a",
 		"terminal.ansiGreen": "#d1f1a9",
 		"terminal.ansiYellow": "#ffeead",
 		"terminal.ansiBlue": "#bbdaff",
@@ -423,7 +423,7 @@
 		"terminal.ansiCyan": "#99ffff",
 		"terminal.ansiWhite": "#cccccc",
 		"terminal.ansiBrightBlack": "#827a7a",
-		"terminal.ansiBrightRed": "#490d11",
+		"terminal.ansiBrightRed": "#8c232a",
 		"terminal.ansiBrightGreen": "#b8f171",
 		"terminal.ansiBrightYellow": "#ffe580",
 		"terminal.ansiBrightBlue": "#80baff",
